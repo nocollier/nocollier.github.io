@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ILAMB Tutorial at University of Tokyo"
+date:   2019-05-30
+categories: jekyll update
+---
+
+I gave a [tutorial][ilamb] on the ILAMB software for Professor Hyungjun Kim's group at the University of Tokyo as part of our visit to Japan.
+
+[ilamb]: https://www.ilamb.org/doc/tutorial.html
