@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Development of a Terrestrial Dynamical Core for E3SM"
+title:  "Development of a Terrestrial Dynamical Core for E3SM at PETSc Users Meeting"
 date:   2019-06-07
 categories: jekyll update
 ---

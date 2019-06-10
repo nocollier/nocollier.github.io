@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Development of a Terrestrial Dynamical Core for E3SM"
+title:  "Development of a Terrestrial Dynamical Core for E3SM at SIAM CSE"
 date:   2019-02-25
 categories: jekyll update
 ---
