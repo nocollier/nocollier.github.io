@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Activities at the AGU Fall Meeting"
+date:   2019-12-08
+categories: jekyll update
+---
+
+This year I am involved in contributing to a number of poster presentations and have co-convened a session on Computational Geosciences. For a complete list see my AGU [activity](https://agu.confex.com/agu/fm19/meetingapp.cgi/Person/62406). My personal research is being presented in a e-Lightning session and presented as this [e-Poster](https://agu2019fallmeeting-agu.ipostersessions.com/default.aspx?s=6F-3E-1D-11-3A-96-24-7E-08-D9-27-A3-BA-11-9A-87).
+
+
