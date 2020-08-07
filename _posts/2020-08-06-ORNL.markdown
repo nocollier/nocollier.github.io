@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Solution Costs of Isogeometric Analysis"
+date:   2020-08-06
+categories: jekyll update
+---
+
+I will present an analysis of the cost of multi-frontal direct and
+iterative solvers when applied to linear systems resulting from a
+discretized elliptic partial differential equation with the
+higher-order continuous B-spline basis, popularly known as
+isogeometric analysis.
+
+Since 2005, the engineering research community has invested heavily in
+the development of isogeometric analysis, originally due to a desire
+to more tightly couple analysis to geometry representations, but
+additionally because of many favorable qualities of the B-spline
+basis. Among these is an observable improvement in the constant of the
+error convergence when using the spaces to discretize partial
+differential equations. This improvement grows as the polynomial order
+of the space grows, reaching as large as one to two orders of
+magnitude relative to the traditional finite element spaces. This
+sparked great interest in using the B-spline basis as an economic high
+polynomial order method.
+
+However, this assessment ignored the differences in the costs of
+solving the resulting linear systems. We found that relative to the
+traditional C^0 finite element spaces, the maximally continuous
+C^(p-1) basis, where p is the polynomial order of the space, is O(p^3)
+times more expensive to solve when using a multi-frontal direct solver
+and O(p^2) when using iterative solvers.
+
+In this talk, I will discuss the derivation of these estimates and
+present results which support the conclusions. This talk will be of
+value to those interested in using isogeometric analysis in practice
+or in understanding how a multi-frontal direct solver works. More
+broadly, this talk advocates for a more holistic view of developing
+numerical methods which includes solution costs.
