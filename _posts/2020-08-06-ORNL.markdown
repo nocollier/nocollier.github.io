@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solution Costs of Isogeometric Analysis"
+title:  "Solution Costs of Isogeometric Analysis for ORNL's Computational and Applied Mathematics Group"
 date:   2020-08-06
 categories: jekyll update
 ---
